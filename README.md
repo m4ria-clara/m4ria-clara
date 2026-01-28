@@ -1,6 +1,6 @@
 ## Sou a Maria, estudante de front-end!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=m4ria-clara&show_icons=true&theme=dracula)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ria-clara&size_weight=0.3&count_weight=0.3).
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=m4ria-clara&size_weight=0.3&count_weight=0.3/api?username=m4ria-clara&show_icons=true&theme=dracula).
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
